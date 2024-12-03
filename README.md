@@ -21,4 +21,5 @@
 - 🤝 Contribute to open-source projects related to trading and algorithmic systems or any other that attracts my interest!  
 
 ## Get in Touch  
-- 📧 Email: [diego@robexia.com](mailto:diego@robexia.com)  
+- 📧 Email: [diego@robexia.com](mailto:diego@robexia.com)
+- 💼 LinkedIn: [Diego Jaureguizar](https://www.linkedin.com/in/diegojaure/)  
